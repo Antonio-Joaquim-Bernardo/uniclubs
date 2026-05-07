@@ -1,0 +1,2 @@
+Senha deve ser criptografada, para isso devemos usar: npm install bcrypt
+Instalar o driver do PostgreSQL para manter a conexão entre o Next e a BD: npm install pg
